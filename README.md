@@ -1,5 +1,5 @@
 # statusinvest
-This code makes a webscraping of a stock site in Brazil called Status Invest.
+This code makes a webscraping with Python of a stock site in Brazil called Status Invest.
 
 You can select which stocks you want to analyze by adding on the list at the beginning of the code.
 
